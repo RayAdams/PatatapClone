@@ -1,0 +1,1 @@
+Udemy project clone of patatap.com using audio and visual libraries "howlerJS" and "paperJS". Type around to play sounds with shrinking, colorful circles. Sounds available on github from "/jonobr1/Neuronal-Synchrony".
